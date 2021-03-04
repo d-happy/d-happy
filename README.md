@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning toy project for Spring Boot.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : durangohy@gmail.com
+- 📫 How to reach me : eur18921@gmail.com
 - 📁 포트폴리오 : https://github.com/d-happy/portfolio
 
 <!---
